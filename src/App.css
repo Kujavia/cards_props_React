@@ -1,0 +1,80 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: rgb(228, 194, 45);
+}
+
+.tarif_conainer{
+  display: flex;
+  gap: 30px;
+}
+
+.containerCl{
+  border: 1px rgb(173, 175, 181) solid;
+}
+.containerClass_red{
+  width: 600px;
+  border: 6px red solid;
+}
+
+.tarif_{
+  color: blue;
+}
+
+.name_red{
+  background-color: red;
+} 
+
+.name_green{
+  background-color: green;
+
+} 
+.name_blue{
+  background-color: rgb(0, 11, 128);
+} 
+.name_red{
+  background-color: red;
+} 
+
+.name_green{
+  background-color: green;
+
+} 
+.name_black{
+  background-color: rgb(0, 0, 0);
+}
+.sale_cl{
+  font-size: 30px;
+}
+
+.sale{
+  background-color: rgb(21, 0, 128);
+  color: rgb(248, 248, 248);
+  font-size: 30px;
+} 
+.sale_red{
+  background-color: red;
+}
+.sale_blue{
+  background-color: blue;
+}
+.sale_green{
+  background-color: green;
+}
+.sale_black{
+  background-color: black;
+}
+
+.size{
+  background-color: rgb(109, 128, 0);
+  color: rgb(248, 248, 248);
+  font-size: 18px;
+} 
+
+.footer{
+  background-color: rgb(160, 160, 160);
+  color: rgb(248, 248, 248);
+  font-size: 18px;
+} 
