@@ -3,8 +3,7 @@ import './App.css'
 import Card from './components/card'
 // import theme_green from "./components/theme_green.css"
 
-function App() {
-
+function App(props) {
   return (
     <>
       <h1>Список тарифов</h1>
@@ -32,7 +31,7 @@ function App() {
       footer="Объём включенного трафика не ограничен"/>
 
       <Card 
-      containerClass="containerClass_red"
+      containerClass="containerClass"
       name="Безлимитный 550" 
       nameClass="name_blue" 
       sale="550 руб/мес"
